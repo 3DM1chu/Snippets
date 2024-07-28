@@ -1,0 +1,9 @@
+# Class	Description
+> ComboLBox	The class for the list box contained in a combo box.
+> DDEMLEvent	The class for Dynamic Data Exchange Management Library (DDEML) events.
+> Message	The class for a message-only window.
+> #32768	The class for a menu.
+> #32769	The class for the desktop window.
+> #32770	The class for a dialog box.
+> #32771	The class for the task switch window.
+> #32772	The class for icon titles.
